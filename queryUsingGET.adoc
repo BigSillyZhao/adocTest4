@@ -1,6 +1,6 @@
 
 [[_queryusingget]]
-==== 获取模型对比状态
+==== 获取模型对比状态qqq
 ....
 GET /compare/compareId
 ....
