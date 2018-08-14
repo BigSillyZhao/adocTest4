@@ -19,6 +19,8 @@ GET /compare/compareId
 __必填__|authorization header|string|`"bearer dc671840-bacc-4dc5-a134-97c1918d664b"`
 |**Query**|**compareId** +
 __必填__|模型对比ID|integer (int64)|
+|**Query**|**compareId** +
+__必填__|模型对比ID|integer (int64)|
 |===
 
 
@@ -80,7 +82,6 @@ __必填__|模型对比ID|integer (int64)|
   "message" : "message"
 }
 ----
-我在下面加了一点东西
 
 
 
